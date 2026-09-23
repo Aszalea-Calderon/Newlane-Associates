@@ -124,3 +124,7 @@ Sources and Credible Sources:
 1. Author: The author has expertiese in the field they are writing in or in the media you are consuming. 
 2. View: What is the point of view that it has? is there bias baked in? What type of world view does it present?
 3. Date: Is it still in date? 
+
+Peer Reviewd Publications 
+1. this means that a panel of scholars has revied and evaluated the work for quality, accuracy, and credibility before it was published. 
+when looking for papers to source stuff for your reserach, you will want to find things that are credible and will work for what you are hoping to do but ensure that they are from a credible source. You will need to eval author, view, and date and find peer reviewed journals if possible . You need to assess if it is correct for your work as well
