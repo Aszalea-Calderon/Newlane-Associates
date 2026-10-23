@@ -48,4 +48,34 @@ Overview: there are different learning styles.
 4. reading and writing learning
     - these ones like reading and writing and 
 
-My style is a combo of visual + Audio, 
+My style is a combo of visual + Audio,  but also note that as learning styles are a preference, you can still learn with all of them its just a bit harder and you will need to adjust accordingly 
+
+Attitues towards learning will go along way in ensuring someone learns the material or not, can you make it fun for yourself 
+
+In Blooms Taxonomy of learning 
+
+You first must be able to take in the material, understand it and apply it, and then start to anylize and decide for yourself if this makes to move on from 
+
+The origional framework was as follows:
+Knowledge
+Comprehension
+Application
+Analysis
+Synthesis
+Evaluation
+
+This then lead to a revised taxomomy 
+1. Remembering: Recall or retrieve previous learned information.
+2. Understanding: Comprehending the meaning, translation, interpolation, and interpretation of instructions and problems. State a problem in one's own words.
+3. Applying: Use a concept in a new situation or unprompted use of an abstraction. Applies what was learned in the classroom into novel situations in the work place.
+4. Analyzing: Separates material or concepts into component parts so that its organizational structure may be understood. Distinguishes between facts and inferences.
+5. Evaluating: Make judgments about the value of ideas or materials.
+6. Creating: Builds a structure or pattern from diverse elements. Put parts together to form a whole, with emphasis on creating a new meaning or structure.
+
+There are many different ideas that you can build from, and being able to connect those divese modes of thought is a skill
+
+Studying notes 
+1. Overall rewview your notes, and be sure to study in your learning style
+
+Critical Thinking: 
+1. A good reason for something is directly tied to how probable the outcome is
