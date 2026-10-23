@@ -76,6 +76,18 @@ There are many different ideas that you can build from, and being able to connec
 
 Studying notes 
 1. Overall rewview your notes, and be sure to study in your learning style
+2. Atomic habits of when you are trying to build a habit, build off an existing one so you are able to build in tandem
 
 Critical Thinking: 
 1. A good reason for something is directly tied to how probable the outcome is
+2. Bad reasons would be if something is not probable to be the case. 
+
+Argument types: 
+There are different argument types when building an argument and working with critical thinking skills 
+
+1. Deductive: When the truth of the premises guarantees the truth of the conclusion. 
+Example being 
+Premmise 1: Monty is in Tokyo, 
+Premise 2: It is impossible to get here from there in an afternoon
+
+If both premises are true, then the fact must be true. 
