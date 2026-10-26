@@ -24,7 +24,7 @@ Identify the value and principle of time management and define strategies that w
 
 Overall focusing your long term goalso you know what you'd like to do should help you get there. 
 
-There is an opportity cost, if you take something on or work towards a goal, there is usually a tradeoff
+There is an opportity cost, if you take something on or work towards a goal, there is usually a tradeoff. You lose out on the best possible alternative
 
 Habits:
 1. If you set what you can control
@@ -83,7 +83,7 @@ Critical Thinking:
 2. Bad reasons would be if something is not probable to be the case. 
 
 Argument types: 
-There are different argument types when building an argument and working with critical thinking skills 
+There are different argument types (Critical thinking ways of presenting information to show you have logic behind the statement) when building an argument and working with critical thinking skills 
 
 1. Deductive: When the truth of the premises guarantees the truth of the conclusion. 
 Example being 
@@ -91,3 +91,16 @@ Premmise 1: Monty is in Tokyo,
 Premise 2: It is impossible to get here from there in an afternoon
 
 If both premises are true, then the fact must be true. 
+
+2. Ampliative (amp-plee-a-tive): The truth of these arguements make this probable but not 100% fact. 
+Even if the premise are true, that doesn't mean that the conclusion is true. 
+Premise 1: Monty is really shy
+Premise 2: Monty rarely goes to parties
+
+The conclusion is possible to be true but not guarenteed . 
+
+The Argument for Critical thinking: 
+1. There are many different points of view that are constantly vieing for your attention. you should be able to recognize and defend yourself against these and should be able to form your own thoughts and opinions. 
+    - Each of these entities (goverments, ad companies, instituations, anything) want you to adhear to a specific view point as this gets them money power influence etc. 
+    - Many different companies also are competing against each other. Rather than one or the other, is there also other points of views to consider that we should think through
+2. To do this you must build the muscle of critical thinking and ensure that you can build tho
