@@ -27,11 +27,11 @@ Overall focusing your long term goalso you know what you'd like to do should hel
 There is an opportity cost, if you take something on or work towards a goal, there is usually a tradeoff. You lose out on the best possible alternative
 
 Habits:
-1. If you set what you can control
+1. Set what you can control
 2. Be sure to plan accordingly 
 3. be sure to plan breaks 
 
-to remember the material talk through the study tool you built for remembering things and how this differes for how I approch free form writing vs 
+to remember the material talk through the study tool you built for remembering things and how this differes for how I approch free form writing vs multi choice
 
 Different Styles of learning: 
 Overview: there are different learning styles. 
@@ -54,7 +54,7 @@ Attitues towards learning will go along way in ensuring someone learns the mater
 
 In Blooms Taxonomy of learning 
 
-You first must be able to take in the material, understand it and apply it, and then start to anylize and decide for yourself if this makes to move on from 
+You first must be able to take in the material, understand it and apply it, and then start to anylize and decide for yourself if this makes to move on from. This also implies that the learning that you have is cummulative and must build on itself
 
 The origional framework was as follows:
 Knowledge
@@ -103,4 +103,5 @@ The Argument for Critical thinking:
 1. There are many different points of view that are constantly vieing for your attention. you should be able to recognize and defend yourself against these and should be able to form your own thoughts and opinions. 
     - Each of these entities (goverments, ad companies, instituations, anything) want you to adhear to a specific view point as this gets them money power influence etc. 
     - Many different companies also are competing against each other. Rather than one or the other, is there also other points of views to consider that we should think through
+    - I feel that over time people also tend to lose the ability to think for themseleves. It is disouraged in the work place and tends towards group think. This can lead to fragmented entities which can become fragile. When there is only one mode of thinking, there is the same strengths and same weaknesses. 
 2. To do this you must build the muscle of critical thinking and ensure that you can build tho
