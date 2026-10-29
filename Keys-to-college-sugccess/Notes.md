@@ -134,3 +134,7 @@ The first motion pictures were shown in the 1890's and it has only grown from th
 Media literacy there is different forms of media literacry, One is known as protectionism. This form of protection is full censorsiship and removal of said media as a form of protect. They tended to beleive that that people were in grave danger from these messages. A few forms of this would be cultural defensiveness where certian types of media are said to have less cultural value than others. "they don't make them like they use to is a good example of this one"  There is also politcal defensisvnes where those folks beleive that people must be protected from false beliefs and ideologies. and then there is moral defensiveness where the individual belelives that the bigeest concern is the effects of sex, violence and consumerisum is of the biggest concern
 
 "Cultural defenseism in media literacy refers to the idea that individuals should be educated to critically analyze media content through the lens of their own cultural backgrounds. This approach emphasizes understanding how cultural contexts influence the interpretation of media messages and promotes skills to navigate and evaluate media effectively. Cultural literacy enhances the ability to decode media messages relevant to one's cultural identity." 
+
+Moral panic when this is a preceved threat to the social norm. This tends to have people then act on the precieved threats that are often based on stereotypes, racism or sexism.
+
+We shape our tools, and our tools then shape us
