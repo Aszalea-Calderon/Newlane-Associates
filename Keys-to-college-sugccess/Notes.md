@@ -128,3 +128,5 @@ Sources and Credible Sources:
 Peer Reviewd Publications 
 1. this means that a panel of scholars has revied and evaluated the work for quality, accuracy, and credibility before it was published. 
 when looking for papers to source stuff for your reserach, you will want to find things that are credible and will work for what you are hoping to do but ensure that they are from a credible source. You will need to eval author, view, and date and find peer reviewed journals if possible . You need to assess if it is correct for your work as well
+
+The first motion pictures were shown in the 1890's and it has only grown from there 
