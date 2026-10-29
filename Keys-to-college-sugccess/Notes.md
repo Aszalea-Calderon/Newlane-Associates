@@ -116,4 +116,11 @@ Critical thinking / philosophy: Philosophy is the systematic and critical study 
 
 Critical thinking — in being responsive to variable subject matter, issues, and purposes — is incorporated in a family of interwoven modes of thinking, among them: scientific thinking, mathematical thinking, historical thinking, anthropological thinking, economic thinking, moral thinking, and philosophical thinking.
 
-Critical thinking depends on why a person is doing it. When it’s driven by self-interest, people use clever reasoning to protect or advance their own goals or their group’s. This kind of thinking is often flawed, even when it works well in practice. When it’s driven by fairness and honesty, it’s usually stronger and more sound, though people used to the selfish kind may dismiss it as unrealistic
+Critical thinking depends on why a person is doing it. When it’s driven by self-interest, people use clever reasoning to protect or advance their own goals or their group’s. This kind of thinking is often flawed, even when it works well in practice. When it’s driven by fairness and honesty, it’s usually stronger and more sound, though people used to the selfish kind may dismiss it as unrealistic.
+
+Media Literacy is also important as people are constantly being bombarded with messages through media. There is encoded messages (what someone or soemthing is trying to convey or convence on) and what you as the reciver decode (what you get based on your worldviews, your understanding of the messaging etc). Being able to critcally think through these sources and view them with a critical eye allows you to be able to get a grasp as to if you agree or not with the material without just asorbing the message and moving on 
+
+Sources and Credible Sources: 
+1. Author: The author has expertiese in the field they are writing in or in the media you are consuming. 
+2. View: What is the point of view that it has? is there bias baked in? What type of world view does it present?
+3. Date: Is it still in date? 
