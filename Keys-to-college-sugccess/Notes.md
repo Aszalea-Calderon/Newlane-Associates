@@ -138,3 +138,17 @@ Media literacy there is different forms of media literacry, One is known as prot
 Moral panic when this is a preceved threat to the social norm. This tends to have people then act on the precieved threats that are often based on stereotypes, racism or sexism.
 
 We shape our tools, and our tools then shape us
+
+Writing:
+There are different forms of paragraph transitions
+1. Standard transitional devices 
+2. paragraph "links" 
+
+An example of standard tranistional devices would be as follows
+![alt text](image.png)
+
+a link on the other hand can be a "word link" or an idea link
+A word link would take one word from the first paragraph as an idea and tie it into the second one to link the paragraphs together where and idea link focuses on refereing that idea "that" etc. 
+
+What academic writing is: 
+1. Academic writing is a formal, structured and evidence based style of communication used in college and scholarly work
