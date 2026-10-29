@@ -82,6 +82,8 @@ Critical Thinking:
 1. A good reason for something is directly tied to how probable the outcome is
 2. Bad reasons would be if something is not probable to be the case. 
 
+What is an argument?  An argument is a set of statements called Premises. And premises comprise of reasons to believe something is true. 
+
 Argument types: 
 There are different argument types (Critical thinking ways of presenting information to show you have logic behind the statement) when building an argument and working with critical thinking skills 
 
@@ -100,8 +102,18 @@ Premise 2: Monty rarely goes to parties
 The conclusion is possible to be true but not guarenteed . 
 
 The Argument for Critical thinking: 
-1. There are many different points of view that are constantly vieing for your attention. you should be able to recognize and defend yourself against these and should be able to form your own thoughts and opinions. 
-    - Each of these entities (goverments, ad companies, instituations, anything) want you to adhear to a specific view point as this gets them money power influence etc. 
-    - Many different companies also are competing against each other. Rather than one or the other, is there also other points of views to consider that we should think through
+1. Self defencse There are many different points of view that are constantly vieing for your attention. you should be able to recognize and defend yourself against these and should be able to form your own thoughts, values and opinions. 
+    - Each of these entities (goverments, ad companies, instituations, anything) want you to adhear to a specific view point as this gets them money power influence etc. By adhearing to their values you push that agendea along
+    - Many different companies also are competing against each other. Rather than one or the other, is there also other points of views to consider that we should think through.
     - I feel that over time people also tend to lose the ability to think for themseleves. It is disouraged in the work place and tends towards group think. This can lead to fragmented entities which can become fragile. When there is only one mode of thinking, there is the same strengths and same weaknesses. 
-2. To do this you must build the muscle of critical thinking and ensure that you can build tho
+2. To do this you must build the muscle of critical thinking. If you want to become an independent thinker, you should be able to analyze and acknologing that we are in an envorement of this. 
+
+If you view this as self defense and learn about the different arguement types that are out there, you can "immunuize" your self to them as you can start to see them. Seeing them can help you to understand and gaurd agasint them but also to use them if needed. 
+
+The overall goal is ownership and justification of our own views, values and beleifes and why we hold them
+
+Critical thinking / philosophy: Philosophy is the systematic and critical study of fundamental questions that arise in everyday life and through other disciplines. Its aim is not just to collect facts, but to help people think clearly by analyzing and assessing arguments.Through critical thinking you should be able to get a clear and deep grasp on why you believe something.
+
+Critical thinking — in being responsive to variable subject matter, issues, and purposes — is incorporated in a family of interwoven modes of thinking, among them: scientific thinking, mathematical thinking, historical thinking, anthropological thinking, economic thinking, moral thinking, and philosophical thinking.
+
+Critical thinking depends on why a person is doing it. When it’s driven by self-interest, people use clever reasoning to protect or advance their own goals or their group’s. This kind of thinking is often flawed, even when it works well in practice. When it’s driven by fairness and honesty, it’s usually stronger and more sound, though people used to the selfish kind may dismiss it as unrealistic
