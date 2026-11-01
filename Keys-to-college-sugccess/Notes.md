@@ -21,6 +21,10 @@ Identify the value and principle of time management and define strategies that w
 4. Manage your time effectively - to start, set timers when you do this
 5. for task management, I tend to be a combo of things where I like to organize things by level of importance and will also sometimes multi task but i know that if I distill down to one or two tasks, it goes better 
 6. They also suggest getting a planner 
+    -- Due Date
+    -- Upcoming events (calender)
+    -- Organize notes 
+    -- Physical Storage (github)
 
 Overall focusing your long term goals you know what you'd like to do should help you get there. 
 
@@ -223,4 +227,8 @@ A. The Leitner system
         i. every 3 days
         i. once per week
         i. once bi weekly
-        i. review before the test 
+        i. review before the test
+    2. If you get it right, moves on, if not goes back to the start
+B. Types of recall
+    1. Active recall NOT visual recall
+    2. Challenge your brain
