@@ -176,3 +176,51 @@ High school students are often taught to write essays using some variation of th
 The goal will be to interweave different ideas. 
 
 Plagiarism is copying information over with attribution. If you choose to use ai you should give it credit even if it is just to clean up the writing . You can self plagiarism which would be taking credit for duplicated work. There are some times where its acceptable if its siting the past but its more rare
+
+How to take good notes: 
+1. In taking good notes, you should record it in your own words
+2. you should write it in your own words rather than copy word for word. This is due to how much faster you can intake info but means you spend more mental process on writing out the full message rather than fully paying attention to the  underlying message. 
+
+Few different "good" note taking options: 
+1. Outline method
+2. The Cornell method
+3. The mind-mapping method
+
+Outline method is as it implies. Its an outline with points and sub-points. This will also have bolded items for important things
+
+Cornell method
+--Cues - Step 2
+--Notes- Step 1 
+- Summary - Step 3
+
+For Cornell method:
+- Notes: 
+--- Take as many notes as you want in the notes column in whatever style 
+- Cues:
+--- questions answered
+--- diagrams
+- Summary: 
+--- Do an initial review after this at the end
+
+Mind Mapping: 
+Core components: 
+-- Center idea
+-- branching ideas
+
+For my own style, I think I will try adopting a combo. (or flow style)
+1. Mindmapping for high level topics. 
+2. Breaking that down into bullets below as needed
+3. Cornell to mix in 
+4.Flow systems where you create your own version
+5. writing on the slides
+
+Recalling items: 
+1. To recall items you should use spaced repetition based on the Ebbinghaus Forgetting curve which will put it into long term storage. memories are fragile and you will forget most of it unless you space out how often you see it
+-- Our learning program we created that has a score that goes up or down depending on if we get it right which will reset it each time for us  
+A. The Leitner system
+    1. 5 boxes
+        i. everyday 
+        i. every 3 days
+        i. once per week
+        i. once bi weekly
+        i. review before the test 
