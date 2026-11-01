@@ -1,10 +1,23 @@
 {
 	"nodes":[
 		{"id":"e30dc7d9f6f8c0e4","type":"text","text":"Papers and Essays ","x":-125,"y":-30,"width":250,"height":60,"color":"6"},
-		{"id":"57c304d47cceb1ea","x":-400,"y":160,"width":250,"height":396,"type":"text","text":"Getting started\n- **Pre-writing:** this technique allows you to write out the ideas and connections you already have so that you can figure out what you would want to research more deeply about\n- **Outline**: Similarly this creates an outline of what we want to focus in on\n- Make a mess: Brain dump: Start writing and get as much that you know about the subject out so you can identify connections  "},
-		{"id":"2c8276b18f605a63","x":-87,"y":193,"width":250,"height":60,"type":"text","text":"Projects: \n"}
+		{"id":"adbc586feff74732","type":"text","text":"Step 2: First draft: \n1. After that inital brain dump THEN\n2. Let this first draft be free of scrutiny and restraint. Write and be free, similar to what you do with design allow it to sketch out first, then refine from there","x":200,"y":160,"width":250,"height":286},
+		{"id":"fae5e5dcf374bbc0","type":"text","text":"Step 3: Editing\n- break down the editing into chunks\n PHASE 1\n\t- Content edit\n\t- Form edit\nPHASE 2: \n\t- Technocal Edit\n- Exactly what you do for Design you do for this as well. These skills can be applied to a ton of different areas. ","x":-400,"y":760,"width":250,"height":378,"color":"5"},
+		{"id":"aa1ca3ec6f8fd7d9","type":"text","text":"Phase 1 Edit: \nContent Editing: \n1. Does each argument support the Thesis? \n2. Is each argument properly fleshed out and backed up with research of external sources? \n3. What can be removed or simplied","x":-760,"y":660,"width":250,"height":340,"color":"5"},
+		{"id":"d035bdf3f972106f","type":"text","text":"Phase 1 Edit: \nForm: \n- Does the paper have a good narrative Flow? \n- Does it talk about what you wanted to talk about?","x":-760,"y":1040,"width":250,"height":260,"color":"5"},
+		{"id":"57c304d47cceb1ea","type":"text","text":"Step 1: Getting started\n- **Pre-writing:** this technique allows you to write out the ideas and connections you already have so that you can figure out what you would want to research more deeply about\n- **Outline**: Similarly this creates an outline of what we want to focus in on\n- Make a mess: Brain dump: Start writing and get as much that you know about the subject out so you can identify connections  ","x":-480,"y":80,"width":250,"height":520},
+		{"id":"2c8276b18f605a63","type":"text","text":"Step 1.1? \n**Researching**: \nA. Sources: \n1. Ebsco\n2. Google Scholar\n3. Jstor\n\nB. Annotate the material\n\t1. Have at least 2 sources for each main point in your thesis\n\t2. one source for non-critcal items \n\n","x":-150,"y":200,"width":250,"height":360},
+		{"id":"3df61dc1b1b98a64","x":-100,"y":760,"width":247,"height":238,"color":"5","type":"text","text":"Phase 2 Edit: \n1. Spelling and grammer mistakes\n2. Poorly Structured Sentences \n3. It just don't sound write\n\n\n"},
+		{"id":"259ac123759393ac","x":-400,"y":1220,"width":250,"height":285,"type":"text","text":"TIPS: \n- Play it out loud to yourself so you can hear the issues**\n- People can only experience it for the first time once\n- Ask for exactly what you want"}
 	],
 	"edges":[
-		{"id":"eb4ef895755c0c1f","fromNode":"e30dc7d9f6f8c0e4","fromSide":"bottom","toNode":"57c304d47cceb1ea","toSide":"top"}
+		{"id":"eb4ef895755c0c1f","fromNode":"e30dc7d9f6f8c0e4","fromSide":"bottom","toNode":"57c304d47cceb1ea","toSide":"top"},
+		{"id":"418048f076cc137f","fromNode":"e30dc7d9f6f8c0e4","fromSide":"bottom","toNode":"2c8276b18f605a63","toSide":"top"},
+		{"id":"b1b686e68a481c01","fromNode":"e30dc7d9f6f8c0e4","fromSide":"bottom","toNode":"adbc586feff74732","toSide":"top"},
+		{"id":"eb71966974329376","fromNode":"e30dc7d9f6f8c0e4","fromSide":"bottom","toNode":"fae5e5dcf374bbc0","toSide":"top"},
+		{"id":"2974ce2d83f3059b","fromNode":"fae5e5dcf374bbc0","fromSide":"left","toNode":"aa1ca3ec6f8fd7d9","toSide":"right","color":"5"},
+		{"id":"99d29ca781c7f036","fromNode":"fae5e5dcf374bbc0","fromSide":"left","toNode":"d035bdf3f972106f","toSide":"right","color":"5"},
+		{"id":"efbe7b688e1da834","fromNode":"fae5e5dcf374bbc0","fromSide":"right","toNode":"3df61dc1b1b98a64","toSide":"left"},
+		{"id":"307b197d4c20ef0e","fromNode":"fae5e5dcf374bbc0","fromSide":"bottom","toNode":"259ac123759393ac","toSide":"top"}
 	]
 }

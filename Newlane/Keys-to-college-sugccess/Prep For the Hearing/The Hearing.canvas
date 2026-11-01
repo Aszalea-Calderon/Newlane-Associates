@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"a099c05a6fefa81b","type":"text","text":"The Hearing","x":-216,"y":54,"width":250,"height":60},
+		{"id":"ec77583713858cfb","type":"text","text":"### Evolution in Notetaking\n- First pass very messy style (just taking deep detailed notes -- Overwheming)\n- transition over to Flow / mind maps with a high Level outline  ","x":-720,"y":-340,"width":324,"height":274},
+		{"id":"592f74738c029a5f","type":"text","text":"Reason for College\n\n- Joy in learning (curiosity)\n- Credentials for work \n\t- Better roles\n\t- Higher Pay\n\t- Access to academic spheres\n- Deeper understaning of Materials\n- Deeper critical thinking skills\n- \n\t","x":34,"y":-400,"width":250,"height":320}
+	],
+	"edges":[
+		{"id":"31d62156fb35c7db","fromNode":"a099c05a6fefa81b","fromSide":"top","toNode":"ec77583713858cfb","toSide":"right"}
+	]
+}

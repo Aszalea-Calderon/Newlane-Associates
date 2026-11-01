@@ -181,7 +181,12 @@ Religious upheaval and political conflict weakened the Roman Empire from within,
 
 High school students are often taught to write essays using some variation of the five-paragraph model. A five-paragraph essay is hourglass-shaped: it begins with something general, narrows down in the middle to discuss specifics, and then branches out to more general comments at the end. In a classic five-paragraph essay, the first paragraph starts with a general statement and ends with a thesis statement containing three “points”; each body paragraph discusses one of those “points” in turn; and the final paragraph sums up what the student has written.
 
-1. Papers / essays: 
+1. Papers / essays: [[Papers, Pre-Writing, and Essays.canvas]]
+	1. Pre-write the paper
+		1. be messy
+		2. brain dump
+	2. First draft but dont edit yet
+	3. Editing phase broken down into chunks 
 
 The goal will be to interweave different ideas. 
 
