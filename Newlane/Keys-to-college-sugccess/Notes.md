@@ -25,6 +25,7 @@ Identify the value and principle of time management and define strategies that w
     -- Upcoming events (calender)
     -- Organize notes 
     -- Physical Storage (github)
+        - This would have subfolders 
 
 Overall focusing your long term goals you know what you'd like to do should help you get there. 
 
