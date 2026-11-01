@@ -8,11 +8,12 @@ Establish general goals to help narrow down an academic path.
 4. It was suggested that by benjamin Franklin if you empty your wallet into your mind no one can steal it
 
 Identify effective organizational skills for studying.
-1. By creating a clear, clean env that you study in you are able to focus better
+1. By creating a clear, clean env that you study in you are able to focus better 
 2. Set the ideal temperature where you are not too hot and not too cold 
 3. calm music or none at all
 4. Set a plan and stick to it 
 5. Set realistic goals for what you want to do 
+6. Pick a consistent spot to work so that is the "study spot". Your brain knows the task we are doing when we are there
 
 Identify the value and principle of time management and define strategies that work for you.
 1. When is the best time for you to study and plan around it
