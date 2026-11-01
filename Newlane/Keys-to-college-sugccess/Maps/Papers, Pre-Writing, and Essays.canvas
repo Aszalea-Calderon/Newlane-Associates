@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e30dc7d9f6f8c0e4","type":"text","text":"Papers and Essays ","x":-125,"y":-30,"width":250,"height":60,"color":"6"},
+		{"id":"57c304d47cceb1ea","x":-400,"y":160,"width":250,"height":396,"type":"text","text":"Getting started\n- **Pre-writing:** this technique allows you to write out the ideas and connections you already have so that you can figure out what you would want to research more deeply about\n- **Outline**: Similarly this creates an outline of what we want to focus in on\n- Make a mess: Brain dump: Start writing and get as much that you know about the subject out so you can identify connections  "},
+		{"id":"2c8276b18f605a63","x":-87,"y":193,"width":250,"height":60,"type":"text","text":"Projects: \n"}
+	],
+	"edges":[
+		{"id":"eb4ef895755c0c1f","fromNode":"e30dc7d9f6f8c0e4","fromSide":"bottom","toNode":"57c304d47cceb1ea","toSide":"top"}
+	]
+}

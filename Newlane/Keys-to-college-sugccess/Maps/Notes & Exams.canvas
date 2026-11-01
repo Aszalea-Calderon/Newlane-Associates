@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"4aab522d284f55d4","type":"text","text":"Study Skills","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e6b2004610c33891","type":"text","text":"--Study Skills--","x":-125,"y":-30,"width":250,"height":60,"color":"6"},
+		{"id":"82a75accfa4403e3","type":"text","text":"Plan Ahead\n- You need time to digest\n- Create a Schedule \n- ","x":-320,"y":180,"width":250,"height":160},
+		{"id":"ef6e50bab8f8404d","type":"text","text":"Test Conditions\n- Try to create the same test conditions \n- OR Study in different Environments\n- Test banks (Koofers.com)","x":0,"y":180,"width":250,"height":245},
+		{"id":"3bc6699aa7e38701","type":"text","text":"Study Locations\n- Study under the same conditions\n- Quiz with Recall rather than recognize ","x":-195,"y":460,"width":250,"height":186},
+		{"id":"317fe8c70ebef863","type":"text","text":"Problem solving: \n1. Know when to have flash cards vs working through the problem \n2. KNOW what you don't know. How did ","x":250,"y":-75,"width":250,"height":210},
+		{"id":"6ac1fe9f7648ac3a","x":-460,"y":-75,"width":265,"height":155,"type":"text","text":"Actually take breaks: \n- Low density fun\n- High density fun"}
+	],
+	"edges":[
+		{"id":"4c628647caa91796","fromNode":"e6b2004610c33891","fromSide":"bottom","toNode":"82a75accfa4403e3","toSide":"top"},
+		{"id":"001a71fb742ea9a8","fromNode":"e6b2004610c33891","fromSide":"bottom","toNode":"ef6e50bab8f8404d","toSide":"top"},
+		{"id":"9ce8ab722beb52b7","fromNode":"e6b2004610c33891","fromSide":"bottom","toNode":"3bc6699aa7e38701","toSide":"top"},
+		{"id":"328b147a56149acd","fromNode":"e6b2004610c33891","fromSide":"right","toNode":"317fe8c70ebef863","toSide":"left"},
+		{"id":"fdd431d061573fe3","fromNode":"e6b2004610c33891","fromSide":"left","toNode":"6ac1fe9f7648ac3a","toSide":"right"}
+	]
+}

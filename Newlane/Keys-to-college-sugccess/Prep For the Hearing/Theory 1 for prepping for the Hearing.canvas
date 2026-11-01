@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c841acfd7daff6b1","type":"text","text":"Prep Ideas: First Pass Theory","x":-249,"y":16,"width":250,"height":60},
+		{"id":"861d5c78d695f46c","type":"text","text":"Step 1: Brain dump / mind map: \n1. Similar to writing the paper [[Papers, Pre-Writing, and Essays.canvas]] Get all you know about the subject out so we can talk clearly about it\n2. ","x":-540,"y":-480,"width":250,"height":386},
+		{"id":"94a3ae518ac70f1e","type":"text","text":"Step 2: Outline / Cornell\n1. If we need to present this as a talk, it might be best to then have an outline as to what we want to talk about. ","x":1,"y":-480,"width":250,"height":223}
+	],
+	"edges":[
+		{"id":"803cbe4c3774e263","fromNode":"c841acfd7daff6b1","fromSide":"top","toNode":"861d5c78d695f46c","toSide":"right"},
+		{"id":"30eaf9510acb7556","fromNode":"c841acfd7daff6b1","fromSide":"top","toNode":"94a3ae518ac70f1e","toSide":"left"}
+	]
+}

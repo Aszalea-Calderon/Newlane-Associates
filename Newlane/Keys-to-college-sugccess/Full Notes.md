@@ -1,3 +1,5 @@
+Before our hearing lets [[Theory 1 for prepping for the Hearing.canvas|Theory 1 for prepping for the Hearing]]
+
 According to them there are several keys to college success and why you should take a degree. 
 
 Establish general goals to help narrow down an academic path.
@@ -24,7 +26,7 @@ Identify the value and principle of time management and define strategies that w
 6. They also suggest getting a planner 
     -- Due Date
     -- Upcoming events (calender)
-    -- Organize notes 
+    -- Organize notes [[Notes & Exams.canvas]]
     -- Physical Storage (github)
         - This would have subfolders 
 
@@ -179,6 +181,8 @@ Religious upheaval and political conflict weakened the Roman Empire from within,
 
 High school students are often taught to write essays using some variation of the five-paragraph model. A five-paragraph essay is hourglass-shaped: it begins with something general, narrows down in the middle to discuss specifics, and then branches out to more general comments at the end. In a classic five-paragraph essay, the first paragraph starts with a general statement and ends with a thesis statement containing three “points”; each body paragraph discusses one of those “points” in turn; and the final paragraph sums up what the student has written.
 
+1. Papers / essays: 
+
 The goal will be to interweave different ideas. 
 
 Plagiarism is copying information over with attribution. If you choose to use ai you should give it credit even if it is just to clean up the writing . You can self plagiarism which would be taking credit for duplicated work. There are some times where its acceptable if its siting the past but its more rare
@@ -187,7 +191,7 @@ How to take good notes:
 1. In taking good notes, you should record it in your own words
 2. you should write it in your own words rather than copy word for word. This is due to how much faster you can intake info but means you spend more mental process on writing out the full message rather than fully paying attention to the  underlying message. 
 
-Few different "good" note taking options: 
+Few different "good" note taking options: (there are many others as well) 
 1. Outline method
 2. The Cornell method
 3. The mind-mapping method
@@ -223,14 +227,27 @@ For my own style, I think I will try adopting a combo. (or flow style)
 Recalling items: 
 1. To recall items you should use spaced repetition based on the Ebbinghaus Forgetting curve which will put it into long term storage. memories are fragile and you will forget most of it unless you space out how often you see it
 -- Our learning program we created that has a score that goes up or down depending on if we get it right which will reset it each time for us  
-A. The Leitner system
-    1. 5 boxes
-        i. everyday 
-        i. every 3 days
-        i. once per week
-        i. once bi weekly
-        i. review before the test
-    2. If you get it right, moves on, if not goes back to the start
-B. Types of recall
-    1. Active recall NOT visual recall
-    2. Challenge your brain
+	A. The Leitner system
+	    1. 5 boxes
+	        i. everyday 
+	        i. every 3 days
+	        i. once per week
+	        i. once bi weekly
+	        i. review before the test
+	    2. If you get it right, moves on, if not goes back to the start
+	B. Types of recall
+	    3. Active recall NOT visual recall
+	    4. Challenge your brain
+
+Procrastination [[Procrastination.canvas]]
+A. Challenge of task
+	1. When we believe a task is too hard we are more likely to avoid it. 
+		- Think though ways to make the task easier to digest
+	2. Break the task into smaller tasks 
+		
+B. Distraction
+		- if I am getting distracted easily, maybe its time for a short break
+		- Reset (or decrease impulsiveness)
+
+Test Anxiety: 
+
